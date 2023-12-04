@@ -1,29 +1,20 @@
-# Level 1: Home Network
+# 🏠 Level 1: Home Network
 
-## Description
-Every network engineer has to start somewhere. The 
-
-<br>
-
-## Scenario
-John is an aspiring network engineer and he thought what better way to test his skills then to configure his own home network.
-
-<br>
+**Scenario**: John is an aspiring network engineer and he thought what better way to test his skills then to configure his own home network.
 
 ## House Layout
 
 <p align="center">
 <br>
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="House Schema"/>
-<br />
+<img src="https://i.imgur.com/L9c1nMg.jpg" height="80%" width="80%" alt="House Schema"/>
 </p>
 <br>
-
 
 ## Network Devices
 1. **Modem**
 2. **Router**
+<br>
+
 
 ## End Devices
 

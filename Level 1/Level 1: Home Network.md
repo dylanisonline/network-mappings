@@ -27,6 +27,8 @@ These are the devices that will be used by John on a regular basis and that need
 6. **Bluetooth Speakers (3):** Audio devices for entertainment.
 7. **IoT Camera:** Provides surveillance and remote monitoring.
 
+<br>
+
 ## Steps
 1. Configure Internet Devices
 2. Connect End Devices to the Network
